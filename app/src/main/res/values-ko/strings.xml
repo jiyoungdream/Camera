@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TimerCamera</string>
+
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+
+    <string name="action_settings">설정</string>
+    <string name="delay_time">촬영 주기</string>
+    <string name="repeat_count">촬영 횟수</string>
+
+    <string name="alert_title_select_delaytime">시간을 선택해주세요.</string>
+    <string name="alert_title_select_repeatcount">반복 횟수를 선택해주세요.</string>
+
+</resources>

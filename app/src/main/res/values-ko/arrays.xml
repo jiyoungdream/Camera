@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Setting capture delay time-->
+    <string-array name="delay_time">
+        <item>1 분</item>
+        <item>2 분</item>
+        <item>3 분</item>
+        <item>4 분</item>
+        <item>5 분</item>
+        <item>10 분</item>
+        <item>15 분</item>
+        <item>20 분</item>
+        <item>25 분</item>
+        <item>30 분</item>
+    </string-array>
+
+    <string-array name="repeat_cycle">
+        <item>5 회</item>
+        <item>10 회</item>
+        <item>15 회</item>
+        <item>20 회</item>
+        <item>25 회</item>
+        <item>30 회</item>
+        <item>35 회</item>
+        <item>40 회</item>
+        <item>45 회</item>
+        <item>50 회</item>
+    </string-array>
+</resources>

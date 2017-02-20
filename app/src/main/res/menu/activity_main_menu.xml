@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- 액션 버튼으로써 나타나는 "서치" 아이템  -->
+    <item android:id="@+id/action_search"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="1"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+
+    <!-- 오버플로우 공간 안에 있는 "셋팅" 액션 아이템 -->
+    <item android:id="@+id/action_settings"
+        android:orderInCategory="2"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TimerCamera</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="delay_time">Photo Cycle</string>
+    <string name="repeat_count">Repeat Count</string>
+
+    <string name="alert_title_select_delaytime">select delay time</string>
+    <string name="alert_title_select_repeatcount">select repeat time</string>
+
+</resources>

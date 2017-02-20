@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Setting capture delay time-->
+    <string-array name="delay_time">
+        <item>1 Minutes</item>
+        <item>2 Minutes</item>
+        <item>3 Minutes</item>
+        <item>4 Minutes</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>15 Minutes</item>
+        <item>20 Minutes</item>
+        <item>25 Minutes</item>
+        <item>30 Minutes</item>
+    </string-array>
+
+    <string-array name="repeat_cycle">
+        <item>5 times</item>
+        <item>10 times</item>
+        <item>15 times</item>
+        <item>20 times</item>
+        <item>25 times</item>
+        <item>30 times</item>
+        <item>35 times</item>
+        <item>40 times</item>
+        <item>45 times</item>
+        <item>50 times</item>
+    </string-array>
+</resources>
