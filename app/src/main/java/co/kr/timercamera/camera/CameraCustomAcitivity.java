@@ -284,7 +284,7 @@ public class CameraCustomAcitivity extends Activity {
         public void onPictureTaken(byte[] data, Camera camera) {
             new SaveImageTask().execute(data);
             resetCam();
-            Log.d(TAG, "onPictureTaken - jpeg");
+//            Log.d(TAG, "onPictureTaken - jpeg");
         }
     };
 
